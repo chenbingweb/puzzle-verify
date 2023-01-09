@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "puzzleVerify":"../../components/puzzleVerify/puzzleVerify"
+  }
+}
